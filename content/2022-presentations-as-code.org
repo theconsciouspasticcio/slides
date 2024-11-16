@@ -6,7 +6,7 @@
 #+SETUPFILE: reveal.org
 # #+PROPERTY: HEADER-ARGS+ :eval no-export
 #+EXPORT_FILE_NAME: ../public/2022/presentation-as-code/index.html
-#+REVEAL_THEME: /themes/css/reveal-code-relax.css
+#+REVEAL_THEME: ../public/themes/css/reveal-code-relax.css
 #+REVEAL_HLEVEL: 2
 
 * Motivation
